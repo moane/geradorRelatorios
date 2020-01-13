@@ -1,0 +1,9 @@
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\GeradorRelatorios\bin\Debug\GeradorRelatorios.exe.config
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\GeradorRelatorios\bin\Debug\GeradorRelatorios.exe
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\GeradorRelatorios\bin\Debug\GeradorRelatorios.pdb
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\GeradorRelatorios\obj\Debug\GeradorRelatorios.csprojAssemblyReference.cache
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\GeradorRelatorios\obj\Debug\GeradorRelatorios.ProjectInstaller.resources
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\GeradorRelatorios\obj\Debug\GeradorRelatorios.csproj.GenerateResource.cache
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\GeradorRelatorios\obj\Debug\GeradorRelatorios.csproj.CoreCompileInputs.cache
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\GeradorRelatorios\obj\Debug\GeradorRelatorios.exe
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\GeradorRelatorios\obj\Debug\GeradorRelatorios.pdb

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfConfiguracaoRelatorio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ConfiguracaoRelatorio>
+  <Nome>Relatório de Modelos</Nome>
+    <CaminhoConsulta>C:\\Temp\\ConsultaModelo.txt</CaminhoConsulta>
+    <CaminhoArquivo>C:\\Temp\\RelatorioModelos</CaminhoArquivo>
+    <DataHoraExecucao>2019-05-19T11:52:18.5176844-03:00</DataHoraExecucao>
+  </ConfiguracaoRelatorio>
+  <ConfiguracaoRelatorio>
+    <Nome>Relatório de Veiculos</Nome>
+    <CaminhoConsulta>C:\\Temp\\ConsultaVeiculos.txt</CaminhoConsulta>
+    <CaminhoArquivo>C:\\Temp\\RelatorioVeiculos</CaminhoArquivo>
+    <DataHoraExecucao>2019-05-19T11:52:18.5266901-03:00</DataHoraExecucao>
+  </ConfiguracaoRelatorio>
+</ArrayOfConfiguracaoRelatorio>

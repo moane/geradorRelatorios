@@ -1,0 +1,13 @@
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\LogicaNegocio\bin\Debug\AcessoDados.dll
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\LogicaNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\LogicaNegocio\bin\Debug\LogicaNegocio.dll.config
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\LogicaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\LogicaNegocio\bin\Debug\AcessoDados.dll.config
+C:\Users\Moane Prates\source\repos\GeradorRelatorios\LogicaNegocio\bin\Debug\EntityFramework.xml
